@@ -4,7 +4,7 @@
 En la imagenes siguientes se muestra el ejemplo corriendo en android:
 
 
-![](app/src/main/assets/qz.jpg)
+![](app/src/main/assets/1.jpg)
 
 
-![](android/assets/2.png)
+![](app/src/main/assets/2.jpg)

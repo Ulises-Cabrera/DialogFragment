@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ExampleMaterialDesign</string>
+    <string name="username">Usuario</string>
+    <string name="password">Contraseña</string>
+
+    <string name="accept">Acceptar</string>
+
+    <string name="instructions">Favor de comenzar</string>
+    <string name="title_instruction">Instrucciones</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dinosaurIcon">Icono del dialogo</string>
+
+</resources>
